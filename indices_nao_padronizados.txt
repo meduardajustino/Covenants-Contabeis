@@ -1,0 +1,45 @@
+Patrimônio Líquido/Passivo Total	31
+dívida circulante/dívida total	18
+Dívida total / (Dívida total+Capital social)	18
+EBITDA regulatório/Despesas financeiras líquidas	14
+Passivo Exigível / Ativo Total	13
+Dívida Bruta / (Dívida líquida + Patrimônio Líquido)	13
+Índice de Distribuição de Resultados	11
+Passivo total/Patrimônio líquido	10
+EBITDA ajustado/Despesas financeiras	9
+Dívida de Curto Prazo/EBITDA	9
+Índice de Alavancagem	8
+Dívida Total Líquida / Passivo Total	7
+Dívida corporativa / dívida total	6
+Patrimônio Líquido	6
+(Dívida Líquida - Dívida com Garantia Real) / Patrimônio Líquido	5
+Patrimônio Líquido / (Patrimônio Líquido + Dívida Líquida)	5
+dívida financeira/ativo tangível líquido	5
+Dívida Líquida descontada do saldo de cartão de crédito (**) / EBITDA ajustado	4
+dividendos + JSCP / Lucro Líquido do Exercício	4
+Dívida Líquida / Fluxo de Repasses	4
+Passivo circulante / (Passivo circulante + Passivo Não Circulante)	4
+Fluxo de Repasses / Despesas financeiras líquidas	4
+dívida/capital social	3
+ISCD	3
+EBITDA/ENCARGOS DÍVIDAS	3
+EBITDA/Dívida Líquida	3
+EBITDA / Dívida Líquida CP	3
+Despesas financeiras/EBITDA	3
+EBITDA ajustado/Despesas financeiras líquidas	3
+Indicador de Cobertura do Ativo	3
+Índice de Cobertura de Ativos	2
+Dívida Líquida	2
+Ativos não depreciados/Dívida Líquida	2
+Dívida Total/(Dívida Total + Patrimônio Líquido)	2
+EBITDA ajustado	2
+Cláusula de restrição de atos	2
+EBITDA regulatório/Dívida líquida	2
+Dívida Total / Ativo Total	1
+Constituição de reservas mensais	1
+Dívida Líquida / (Dividendos + JCP Recebidos + EBITDA)	1
+Índice de Cobertura da Duração do Financiamento	1
+EBITDA/Patrimônio líquido	1
+Índice de Cobertura da Vida Útil do Empréstimo	1
+Capital Social / ativo imobilizado	1
+EBITDA	1
