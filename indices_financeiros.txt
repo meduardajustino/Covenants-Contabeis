@@ -106,17 +106,6 @@ N/A
 N/A
 N/A
 N/A
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-N/A
-N/A
-N/A
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-N/A
-N/A
 N/A
 N/A
 Dív. Líq. / EBITDA
@@ -151,25 +140,6 @@ N/A
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-N/A
-N/A
-N/A
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
 N/A
 N/A
 N/A
@@ -3524,18 +3494,6 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-N/A
-N/A
-N/A
-N/A
-Dív. Bruta / EBITDA
-Dív. Bruta / EBITDA
-N/A
-N/A
-Dív. Bruta / EBITDA
-N/A
-N/A
-N/A
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
@@ -3589,41 +3547,6 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / PL
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / EBITDA
-AC / PC (Liquidez Corrente)
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -3881,32 +3804,6 @@ EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-ICSD
-ICSD
-ICSD
-PL / AT (ICP)
-ICSD
-ICSD
-ICSD
-ICSD
-ICSD
-ICSD
-ICSD
-ICSD
-ICSD
-ICSD
-Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -4083,19 +3980,6 @@ Outros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-N/A
-N/A
-N/A
-N/A
-EBITDA / Resultado Financeiro
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
