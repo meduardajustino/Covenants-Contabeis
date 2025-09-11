@@ -91,7 +91,7 @@ N/A
 N/A
 N/A
 N/A
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA Ajustado
 N/A
 N/A
@@ -375,24 +375,24 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
-Outros
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
+Dív. Líq. / EBITDA
+Dív. Líq. / EBITDA
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Exigível Total / PL
 ICSD
@@ -652,29 +652,29 @@ EBITDA / Despesa Financeira
 Dív. Líq. / (Dív. Líq. + PL)
 Dív. Bruta / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 EBITDA / Despesa Financeira
 Dív. Líq. / (Dív. Líq. + PL)
 Dív. Bruta / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 EBITDA / Despesa Financeira
 Dív. Líq. / (Dív. Líq. + PL)
 Dív. Bruta / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Bruta / EBITDA
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 PL / AT (ICP)
 PL / AT (ICP)
 Dív. Líq. / EBITDA
@@ -876,42 +876,42 @@ N/A
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
-Dív. Líq. / EBITDA
-Outros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
-Outros
+Dív. Líq. / EBITDA
+Outros índices financeiros
+Dív. Líq. / EBITDA
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Dív. Líq. / EBITDA
+Outros índices financeiros
+Dív. Líq. / EBITDA
+Dív. Líq. / EBITDA
+EBITDA / Resultado Financeiro
+Outros índices financeiros
 ICSD
 EBITDA / Resultado Financeiro
 ICSD
@@ -1053,17 +1053,17 @@ ICSD
 EBITDA / Resultado Financeiro
 ICSD
 Exigível / Ativo Total (Endividamento Geral)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Exigível Total / PL
 ICSD
 Dív. Líq. / EBITDA
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
@@ -1103,7 +1103,7 @@ Dív. Líq. / (Dív. Líq. + PL)
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA Ajustado
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 ICSD
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -1111,7 +1111,7 @@ Dív. Líq. / (Dív. Líq. + PL)
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA Ajustado
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 ICSD
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -1227,10 +1227,10 @@ Dív. Líq. / (Dív. Líq. + PL)
 ICSD
 ICSD
 Dív. Líq. / (Dív. Líq. + PL)
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -1249,61 +1249,61 @@ Dív. Líq. / EBITDA
 N/A
 N/A
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 N/A
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -1318,50 +1318,50 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 EBITDA / Despesa Financeira
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Resultado Financeiro
@@ -1709,8 +1709,8 @@ Exigível / Ativo Total (Endividamento Geral)
 ICSD
 Exigível / Ativo Total (Endividamento Geral)
 ICSD
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 N/A
@@ -1729,7 +1729,7 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 ICSD
-Outros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -1756,12 +1756,12 @@ ICSD
 ICSD
 ICSD
 ICSD
-EBITDA / Resultado Financeiro
-PL / AT (ICP)
 EBITDA / Resultado Financeiro
 PL / AT (ICP)
 EBITDA / Resultado Financeiro
 PL / AT (ICP)
+EBITDA / Resultado Financeiro
+PL / AT (ICP)
 ICSD
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -1787,11 +1787,11 @@ ICSD
 Dív. Líq. / EBITDA
 PL / AT (ICP)
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 ICSD
 EBITDA / Resultado Financeiro
 ICSD
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Despesa Financeira
@@ -1817,7 +1817,7 @@ ICSD
 EBITDA / Resultado Financeiro
 Exigível / Ativo Total (Endividamento Geral)
 ICSD
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 EBITDA / Receita (Margem EBITDA)
 EBITDA / Despesa Financeira
@@ -1971,17 +1971,17 @@ ICSD
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -1994,7 +1994,7 @@ N/A
 N/A
 Dív. Líq. / EBITDA Ajustado
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA Regulatório / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -2006,7 +2006,7 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA Ajustado
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA Regulatório / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -2121,10 +2121,10 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 N/A
 Dív. Bruta / EBITDA
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Bruta / EBITDA
-Outros
+Outros índices financeiros
 Dív. Bruta / EBITDA
 N/A
 N/A
@@ -2181,8 +2181,8 @@ N/A
 N/A
 N/A
 N/A
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -2190,9 +2190,9 @@ N/A
 N/A
 N/A
 N/A
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -2217,7 +2217,7 @@ PL / AT (ICP)
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Despesa Financeira
 Alavancagem Financeira (Genérico)
 Dív. Líq. / PL
@@ -2254,15 +2254,15 @@ Dív. Líq. / PL
 Dív. Líq. / PL
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
@@ -2274,7 +2274,7 @@ N/A
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
 ICSD
-Outros
+Outros índices financeiros
 ICSD
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
@@ -2359,10 +2359,10 @@ Dív. Líq. / Ativo Total
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -2483,8 +2483,8 @@ Dív. Líq. / EBITDA
 Alavancagem Financeira (Genérico)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 EBITDA / Receita (Margem EBITDA)
@@ -2496,19 +2496,8 @@ EBITDA / Despesa Financeira
 EBITDA / Receita (Margem EBITDA)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
-Outros
-EBITDA / Receita (Margem EBITDA)
-Dív. Líq. / EBITDA
-Alavancagem Financeira (Genérico)
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-EBITDA / Receita (Margem EBITDA)
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
-EBITDA / Receita (Margem EBITDA)
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Receita (Margem EBITDA)
 Dív. Líq. / EBITDA
 Alavancagem Financeira (Genérico)
@@ -2520,10 +2509,12 @@ EBITDA / Despesa Financeira
 EBITDA / Receita (Margem EBITDA)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
+EBITDA / Receita (Margem EBITDA)
+Dív. Líq. / EBITDA
+Alavancagem Financeira (Genérico)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Dív. Líq. / EBITDA
-EBITDA / Despesa Financeira
+EBITDA / Receita (Margem EBITDA)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 EBITDA / Receita (Margem EBITDA)
@@ -2542,6 +2533,15 @@ Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
+Dív. Líq. / EBITDA
+EBITDA / Despesa Financeira
+EBITDA / Receita (Margem EBITDA)
+Dív. Líq. / EBITDA
+EBITDA / Despesa Financeira
+Dív. Líq. / EBITDA
+EBITDA / Despesa Financeira
+Dív. Líq. / EBITDA
+EBITDA / Despesa Financeira
 EBITDA / Receita (Margem EBITDA)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
@@ -2621,13 +2621,13 @@ Dív. Líq. / PL
 Dív. Líq. / PL
 Dív. Líq. / PL
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
-Outros
-Dív. Líq. / EBITDA
-Dív. Líq. / PL
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / PL
+Dív. Líq. / EBITDA
+Dív. Líq. / PL
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
 EBIT / Despesa Financeira
@@ -2740,12 +2740,12 @@ Dív. Líq. / EBITDA Ajustado
 Dív. Líq. / EBITDA Ajustado
 Dív. Líq. / EBITDA Ajustado
 Dív. Líq. / EBITDA Ajustado
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -2861,15 +2861,15 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 N/A
 PL / AT (ICP)
 ICSD
@@ -2957,16 +2957,16 @@ Dív. Líq. / EBITDA
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
 Dív. Líq. / (Dív. Líq. + PL)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / (Dív. Líq. + PL)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / (Dív. Líq. + PL)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / (Dív. Líq. + PL)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 N/A
@@ -3031,10 +3031,10 @@ N/A
 N/A
 N/A
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 N/A
 N/A
@@ -3094,15 +3094,15 @@ N/A
 N/A
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
@@ -3115,8 +3115,8 @@ N/A
 N/A
 N/A
 Dív. Líq. / EBITDA
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
@@ -3182,17 +3182,17 @@ EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
@@ -3213,36 +3213,36 @@ N/A
 N/A
 N/A
 Dív. Líq. / PL
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
-Outros
-Outros
-EBITDA / Resultado Financeiro
-EBITDA / Resultado Financeiro
-Dív. Líq. / PL
-EBITDA / Resultado Financeiro
-Dív. Líq. / PL
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+EBITDA / Resultado Financeiro
+EBITDA / Resultado Financeiro
+Dív. Líq. / PL
+EBITDA / Resultado Financeiro
+Dív. Líq. / PL
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
 EBIT / Despesa Financeira
 EBITDA / Resultado Financeiro
@@ -3251,47 +3251,47 @@ EBITDA / Resultado Financeiro
 Dív. Líq. / PL
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -3331,33 +3331,33 @@ Dív. Líq. / EBITDA
 N/A
 N/A
 N/A
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 ICSD
 Dív. Líq. / EBITDA Ajustado
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
@@ -3368,7 +3368,7 @@ EBITDA / Resultado Financeiro
 ICSD
 Dív. Líq. / EBITDA Ajustado
 Dív. Líq. / EBITDA Ajustado
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
@@ -3379,7 +3379,7 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 ICSD
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
@@ -3392,7 +3392,7 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 ICSD
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -3403,7 +3403,7 @@ EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 ICSD
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -3471,17 +3471,17 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -3569,11 +3569,11 @@ N/A
 N/A
 N/A
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 N/A
 N/A
 N/A
@@ -3719,7 +3719,7 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Outros índices financeiros
 N/A
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
@@ -3863,10 +3863,10 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -3875,10 +3875,10 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
@@ -3887,96 +3887,96 @@ Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Dív. Líq. / EBITDA
-EBITDA / Resultado Financeiro
-Dív. Líq. / EBITDA
-EBITDA / Resultado Financeiro
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
-Outros
-Outros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
+Dív. Líq. / EBITDA
+EBITDA / Resultado Financeiro
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Dív. Líq. / EBITDA
+EBITDA / Resultado Financeiro
+Outros índices financeiros
 Dív. Líq. / PL
 EBITDA / Resultado Financeiro
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 N/A
 N/A
 N/A
 N/A
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -4129,42 +4129,42 @@ AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 ICSD
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
 ICSD
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 AC / PC (Liquidez Corrente)
 N/A
 Dív. Líq. / EBITDA
@@ -4375,10 +4375,10 @@ Dív. Líq. / EBITDA
 ICSD
 ICSD
 ICSD
-Outros
-Outros
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 ICSD
 Dív. Líq. / EBITDA
@@ -4386,8 +4386,8 @@ Dív. Líq. / EBITDA
 EBITDA / Receita (Margem EBITDA)
 Dív. Líq. / EBITDA
 EBITDA / Receita (Margem EBITDA)
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 ICSD
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -4433,7 +4433,7 @@ EBITDA / Resultado Financeiro
 Dív. Líq. / PL
 PL / AT (ICP)
 AC / PC (Liquidez Corrente)
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 PL / AT (ICP)
 AC / PC (Liquidez Corrente)
@@ -4620,13 +4620,13 @@ Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
 Dív. Líq. / EBITDA
@@ -4660,71 +4660,71 @@ Alavancagem Financeira (Genérico)
 EBITDA / Despesa Financeira
 Dív. Líq. / EBITDA
 EBITDA / Despesa Financeira
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
 Dív. Líq. / EBITDA
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBIT / Despesa Financeira
 Dív. Líq. / PL
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 EBITDA / Resultado Financeiro
-Outros
-Outros
+Outros índices financeiros
+Outros índices financeiros
 Dív. Líq. / PL
-Outros
+Outros índices financeiros
 Dív. Líq. / PL
 N/A
 N/A
@@ -4792,7 +4792,7 @@ EBITDA / Receita (Margem EBITDA)
 ICSD
 Dív. Líq. / EBITDA
 PL / AT (ICP)
-Outros
+Outros índices financeiros
 N/A
 N/A
 N/A
